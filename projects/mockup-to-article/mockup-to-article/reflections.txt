@@ -7,3 +7,8 @@ You've learned a lot about web development so far. I want you to take a moment t
 ---
 
 Your response goes here!
+
+* I learned about <hr>, <del>, and <sup>.
+* It all has been fairly easy thus far given that I have been making full stack web apps with javascript, react, nodejs, html, and css for months.
+* Thus far, none of it has been difficult
+* Reading documentation has been a major help in this project as well as my web development journey in general
